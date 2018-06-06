@@ -1,0 +1,11 @@
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\bin\Debug\netcoreapp2.0\schhedulerApp.deps.json
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\bin\Debug\netcoreapp2.0\schhedulerApp.runtimeconfig.json
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\bin\Debug\netcoreapp2.0\schhedulerApp.runtimeconfig.dev.json
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\bin\Debug\netcoreapp2.0\schhedulerApp.dll
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\bin\Debug\netcoreapp2.0\schhedulerApp.pdb
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\obj\Debug\netcoreapp2.0\schhedulerApp.csprojResolveAssemblyReference.cache
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\obj\Debug\netcoreapp2.0\schhedulerApp.csproj.CoreCompileInputs.cache
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\obj\Debug\netcoreapp2.0\schhedulerApp.AssemblyInfoInputs.cache
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\obj\Debug\netcoreapp2.0\schhedulerApp.AssemblyInfo.cs
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\obj\Debug\netcoreapp2.0\schhedulerApp.dll
+C:\Users\Jackie\source\repos\schhedulerApp\schhedulerApp\obj\Debug\netcoreapp2.0\schhedulerApp.pdb

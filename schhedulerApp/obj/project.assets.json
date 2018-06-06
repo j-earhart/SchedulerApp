@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\jackie\\source\\repos\\schhedulerApp\\schhedulerApp\\schhedulerApp.csproj",
+      "projectUniqueName": "C:\\Users\\Jackie\\source\\repos\\schhedulerApp\\schhedulerApp\\schhedulerApp.csproj",
       "projectName": "schhedulerApp",
-      "projectPath": "c:\\users\\jackie\\source\\repos\\schhedulerApp\\schhedulerApp\\schhedulerApp.csproj",
+      "projectPath": "C:\\Users\\Jackie\\source\\repos\\schhedulerApp\\schhedulerApp\\schhedulerApp.csproj",
       "packagesPath": "C:\\Users\\Jackie\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\jackie\\source\\repos\\schhedulerApp\\schhedulerApp\\obj\\",
+      "outputPath": "C:\\Users\\Jackie\\source\\repos\\schhedulerApp\\schhedulerApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

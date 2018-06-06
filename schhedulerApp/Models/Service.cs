@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace schhedulerApp.Models
 {
-    public class Services
+    public class Service
     {
         public int Id { get; set; }
+        public string Name { get; set; }
     }
 }

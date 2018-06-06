@@ -26,7 +26,7 @@ namespace schhedulerApp
             services.AddMvc();
 
             //Database Connection
-            var connection = @"Server=.\SQLEXPRESS;Database=SchedulerApp;Trusted_Connection=True;ConnectionRetryCount=0";
+            var connection = @"Server=.\SQLEXPRESS;Database=SchedulerApp;Trusted_Connection=True;ConnectRetryCount=0";
 
             //Assign the connection string to DBContextFile
             services.AddDbContext<SchedulerAppContext>(options => options.UseSqlServer(connection));

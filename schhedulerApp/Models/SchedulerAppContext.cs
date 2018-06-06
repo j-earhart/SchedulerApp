@@ -10,5 +10,8 @@ namespace schhedulerApp.Models
 
         //Begin Defining your models that will be generated into tables
         public DbSet<Customer> Customers { get; set; }
+        public DbSet<Contact> Contacts { get; set; }
+        public DbSet<Service> Services { get; set; }
+
     }
 }

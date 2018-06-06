@@ -53,7 +53,7 @@ namespace schhedulerApp.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name")] Service service)
+        public async Task<IActionResult> Create([Bind("Id,Name,Description")] Service service)
         {
             if (ModelState.IsValid)
             {
@@ -85,7 +85,7 @@ namespace schhedulerApp.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name")] Service service)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description")] Service service)
         {
             if (id != service.Id)
             {

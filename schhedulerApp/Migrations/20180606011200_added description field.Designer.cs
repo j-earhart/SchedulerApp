@@ -11,9 +11,10 @@ using System;
 namespace schhedulerApp.Migrations
 {
     [DbContext(typeof(SchedulerAppContext))]
-    partial class SchedulerAppContextModelSnapshot : ModelSnapshot
+    [Migration("20180606011200_added description field")]
+    partial class addeddescriptionfield
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
